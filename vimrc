@@ -16,3 +16,12 @@ set lbr
 set nocompatible
 set equalalways
 set splitright splitbelow
+
+" Keymaps
+map <f1> :NERDTreeToggle\|wincmd p<cr>
+
+" NERDTree Settings
+let NERDChristmasTree = 1
+let NERDTreeHighlightCursorline = 1
+let NERDTreeShowBookmarks = 1
+let NERDTreeShowHidden = 1
