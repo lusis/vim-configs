@@ -25,3 +25,6 @@
 [submodule "bundle/csapprox"]
 	path = bundle/csapprox
 	url = http://github.com/godlygeek/csapprox.git
+[submodule "bundle/vim-templates"]
+	path = bundle/vim-templates
+	url = http://github.com/hariton/simple-vim-templates.git
