@@ -5,4 +5,5 @@
 	Date:	<today's date>
 """
 
-# vi: set autoindent smartindent ts=4 sw=4 fo=croq smarttab filetype=python:
+
+# vim: set ts=4 et sw=4 sts=4 sta filetype=python :

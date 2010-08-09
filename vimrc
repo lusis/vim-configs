@@ -36,7 +36,7 @@ augroup END
 
 augroup Python
 	au!
-	au FileType python set autoindent smartindent ts=4 sw=4 smarttab fo=croq
+	au FileType python set ai si ts=4 et sts=4 sw=4 sta fo=croq
 	au FileType python set foldenable foldmethod=indent
 	au FileType python highlight BadWhitespace ctermbg=red guibg=red
 	au FileType python match BadWhitespace /^\t\+/
@@ -53,8 +53,8 @@ augroup Python
 augroup END
 
 function! AppendModeline()
-  let l:modeline = printf(" vim: set ts=%d sw=%d tw=%d filetype=%s :",
-        \ &tabstop, &shiftwidth, &textwidth, &filetype)
+  let l:modeline = printf(" vim: set ts=%d et sw=%d sts=%d sta filetype=%s :",
+        \ &tabstop, &shiftwidth, &softtabstop, &filetype)
   let l:modeline = substitute(&commentstring, "%s", l:modeline, "")
   call append(line("$"), l:modeline)
 endfunction
