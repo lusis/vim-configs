@@ -31,3 +31,6 @@
 [submodule "bundle/taglist"]
 	path = bundle/taglist
 	url = http://github.com/jc00ke/taglist.vim.git
+[submodule "bundle/secure-modelines"]
+	path = bundle/secure-modelines
+	url = http://github.com/ciaranm/securemodelines.git
