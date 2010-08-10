@@ -1,0 +1,1 @@
+../../../_colorschemes/sampler_pack/rdark.vim
