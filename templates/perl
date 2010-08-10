@@ -3,4 +3,4 @@ use strict;
 use warnings;
 
 
-# cursor: 5 del
+# vim: set ts=8 et sw=8 sts=0 sta filetype=perl :

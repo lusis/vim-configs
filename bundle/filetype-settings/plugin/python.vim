@@ -5,6 +5,7 @@ augroup Python
         au FileType python highlight BadWhitespace ctermbg=red guibg=red
         au FileType python match BadWhitespace /^\t\+/
         au FileType python match BadWhitespace /\s\+$/
+	au FileType python inoremap # X<c-h>#
         let python_highlight_all = 1
         if (has('gui_running'))
                 au FileType python colorscheme railscasts

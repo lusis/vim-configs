@@ -7,25 +7,18 @@ call pathogen#helptags()
 
 " Okay, you can start changing stuff now
 " Basic stuff
-
-"" Hide the opening vim text
-set hidden
-"" Dark background
+"" Things you might want to change
+colorscheme vividchalk " Default colorscheme
 set background=dark
-"" Syntax highlighting by default
+
+"" You probably don't want to change these
+set hidden
 syntax on
-"" 256 colors in terminal mode
 set t_Co=256
-"" Default colorscheme
-colorscheme vividchalk
-"" ignorecase
 set ic
-"" highlightsearch
 set hls
-"" linebreak
 set lbr
 set nocompatible
-
 " These affect viewports
 "" Split windows equally
 set equalalways

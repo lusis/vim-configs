@@ -1,0 +1,1 @@
+../../../_colorschemes/wombat/wombat256.vim
