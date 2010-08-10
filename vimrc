@@ -18,12 +18,14 @@ syntax on
 set t_Co=256
 "" Default colorscheme
 colorscheme vividchalk
-"" Ignore case in search
+"" ignorecase
 set ic
-"" highlight in search
+"" highlightsearch
 set hls
+"" linebreak
 set lbr
 set nocompatible
+
 " These affect viewports
 "" Split windows equally
 set equalalways
