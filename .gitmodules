@@ -1,8 +1,8 @@
 [submodule "bundle/cucumber"]
 	path = bundle/cucumber
 	url = http://github.com/tpope/vim-cucumber.git
-[submodule "bundle/vividchalk"]
-	path = bundle/vividchalk
+[submodule "_colorschemes/vividchalk"]
+	path = _colorschemes/vividchalk
 	url = http://github.com/tpope/vim-vividchalk.git
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
