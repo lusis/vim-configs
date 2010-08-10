@@ -21,6 +21,7 @@ This will clone the repo, setup a symlink to the vimrc inside and pull down all 
 
 Customization
 -------------
-
 There's not really much you can customize off the bat. I'm working on a script to do some of that heavy lifting.
-
+You'll probably want to change the default colorscheme. It's currently set for vividchalk (via tpope submodule).
+Basically, don't bother changing anything in vimrc (especially the pathogen setup) unless you know what you're doing.
+You can't really screw up the colorscheme change.
