@@ -1,6 +1,6 @@
 augroup Python
         au!
-        au FileType python set ai si ts=4 et sts=4 sw=4 sta fo=croq
+        au FileType python set ai si ts=4 et sts=4 sw=4 sta fo=croq number
         au FileType python set foldenable foldmethod=indent
         au FileType python highlight BadWhitespace ctermbg=red guibg=red
         au FileType python match BadWhitespace /^\t\+/
