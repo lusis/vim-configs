@@ -11,10 +11,10 @@ augroup Python
 	au Filetype python match OverLength /\%81v.\+/
         let python_highlight_all = 1
         if (has('gui_running'))
-                au FileType python colorscheme railscasts
+                au FileType python colorscheme glade
                 map <S-Insert> <MiddleMouse>
                 map! <S-Insert> <MiddleMouse>
         else
-                au FileType python colorscheme railscast-console
+                au FileType python colorscheme glade
         endif
 augroup END

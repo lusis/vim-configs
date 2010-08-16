@@ -1,0 +1,1 @@
+../../../_colorschemes/glade/glade.vim
