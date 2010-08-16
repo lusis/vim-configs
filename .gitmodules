@@ -40,3 +40,6 @@
 [submodule "bundle/bufexplorer"]
 	path = bundle/bufexplorer
 	url = http://github.com/edsono/vim-bufexplorer.git
+[submodule "bundle/vcscommand"]
+	path = bundle/vcscommand
+	url = http://repo.or.cz/r/vcscommand.git
