@@ -43,3 +43,6 @@
 [submodule "bundle/vcscommand"]
 	path = bundle/vcscommand
 	url = http://repo.or.cz/r/vcscommand.git
+[submodule "bundle/conque"]
+	path = bundle/conque
+	url = http://github.com/rson/vim-conque.git
