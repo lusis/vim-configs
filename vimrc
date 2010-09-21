@@ -25,3 +25,5 @@ set equalalways
 "" New vertical splits to the right of current
 "" New horizontal splits below current
 set splitright splitbelow
+"" Change the leader from \ to ,
+let mapleader=","
