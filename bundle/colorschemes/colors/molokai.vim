@@ -1,0 +1,1 @@
+../../../_colorschemes/molokai/molokai.vim
