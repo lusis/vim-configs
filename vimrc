@@ -8,7 +8,7 @@ call pathogen#helptags()
 " Okay, you can start changing stuff now
 " Basic stuff
 "" Things you might want to change
-colorscheme vividchalk " Default colorscheme
+colorscheme molokai " Default colorscheme
 set background=dark
 
 "" You probably don't want to change these
