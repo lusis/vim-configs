@@ -1,7 +1,7 @@
 augroup Python
         au!
         au FileType python set ai si ts=4 et sts=4 sw=4 sta fo=croq number
-        au FileType python set foldenable foldmethod=indent
+        au FileType python set foldenable foldlevel=1 foldmethod=indent
         au FileType python highlight BadWhitespace ctermbg=red guibg=red
         au FileType python match BadWhitespace /^\t\+/
         au FileType python match BadWhitespace /\s\+$/
@@ -11,10 +11,10 @@ augroup Python
 	au Filetype python match OverLength /\%81v.\+/
         let python_highlight_all = 1
         if (has('gui_running'))
-                au FileType python colorscheme glade
+                au FileType python colorscheme molokai
                 map <S-Insert> <MiddleMouse>
                 map! <S-Insert> <MiddleMouse>
         else
-                au FileType python colorscheme glade
+                au FileType python colorscheme molokai
         endif
 augroup END
