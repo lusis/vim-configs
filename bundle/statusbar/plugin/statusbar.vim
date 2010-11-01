@@ -5,6 +5,9 @@
   set statusline+=[
   set statusline+=%{strlen(&ft)?&ft:'none'}, " filetype
   set statusline+=%{&fileformat}] " file format
+  set statusline+=%#warningmsg#
+  set statusline+=%{SyntasticStatuslineFlag()}
+  set statusline+=%*
   set statusline+=\ %{fugitive#statusline()}
   set statusline+=%h%1*%m%r%w%0* " flag
   set statusline+=%= " right align
