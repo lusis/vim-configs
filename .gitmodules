@@ -46,3 +46,9 @@
 [submodule "bundle/conque"]
 	path = bundle/conque
 	url = http://github.com/rson/vim-conque.git
+[submodule "bundle/ctk"]
+	path = bundle/ctk
+	url = http://github.com/vim-scripts/ctk.vim.git
+[submodule "bundle/gundo"]
+	path = bundle/gundo
+	url = http://github.com/vim-scripts/Gundo.git
