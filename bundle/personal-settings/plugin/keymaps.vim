@@ -11,6 +11,10 @@ map <f3> :VCSAdd<CR>
 map <f4> :VCSCommit<CR>
 "" F5 to show status of VCS
 map <f5> :VCSStatus<CR>
+"" F6 to enter pastemode
+set pastetoggle=<F6>
 " Shortcut key mappings
 nnoremap TT :TlistToggle<CR>
+"" Clear current search
+nmap <silent> <leader>/ :nohlsearch<CR>
 
