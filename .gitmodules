@@ -1,57 +1,57 @@
 [submodule "bundle/cucumber"]
 	path = bundle/cucumber
-	url = http://github.com/tpope/vim-cucumber.git
+	url = https://github.com/tpope/vim-cucumber.git
 [submodule "_colorschemes/vividchalk"]
 	path = _colorschemes/vividchalk
-	url = http://github.com/tpope/vim-vividchalk.git
+	url = https://github.com/tpope/vim-vividchalk.git
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
-	url = http://github.com/tpope/vim-markdown.git
+	url = https://github.com/tpope/vim-markdown.git
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
-	url = http://github.com/tpope/vim-fugitive.git
+	url = https://github.com/tpope/vim-fugitive.git
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
-	url = http://github.com/msanders/snipmate.vim.git
+	url = https://github.com/msanders/snipmate.vim.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = http://github.com/scrooloose/nerdtree.git
+	url = https://github.com/scrooloose/nerdtree.git
 [submodule "bundle/gist-vim"]
 	path = bundle/gist-vim
-	url = http://github.com/mattn/gist-vim.git
+	url = https://github.com/mattn/gist-vim.git
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
-	url = http://github.com/scrooloose/nerdcommenter.git
+	url = https://github.com/scrooloose/nerdcommenter.git
 [submodule "bundle/csapprox"]
 	path = bundle/csapprox
-	url = http://github.com/godlygeek/csapprox.git
+	url = https://github.com/godlygeek/csapprox.git
 [submodule "bundle/vim-templates"]
 	path = bundle/vim-templates
-	url = http://github.com/hariton/simple-vim-templates.git
+	url = https://github.com/hariton/simple-vim-templates.git
 [submodule "bundle/taglist"]
 	path = bundle/taglist
-	url = http://github.com/jc00ke/taglist.vim.git
+	url = https://github.com/jc00ke/taglist.vim.git
 [submodule "bundle/secure-modelines"]
 	path = bundle/secure-modelines
-	url = http://github.com/ciaranm/securemodelines.git
+	url = https://github.com/ciaranm/securemodelines.git
 [submodule "bundle/supertab"]
 	path = bundle/supertab
-	url = http://github.com/ervandew/supertab.git
+	url = https://github.com/ervandew/supertab.git
 [submodule "bundle/bufexplorer"]
 	path = bundle/bufexplorer
-	url = http://github.com/edsono/vim-bufexplorer.git
+	url = https://github.com/edsono/vim-bufexplorer.git
 [submodule "bundle/vcscommand"]
 	path = bundle/vcscommand
-	url = http://repo.or.cz/r/vcscommand.git
+	url = https://repo.or.cz/r/vcscommand.git
 [submodule "bundle/conque"]
 	path = bundle/conque
-	url = http://github.com/rson/vim-conque.git
+	url = https://github.com/rson/vim-conque.git
 [submodule "bundle/ctk"]
 	path = bundle/ctk
-	url = http://github.com/vim-scripts/ctk.vim.git
-[submodule "bundle/gundo"]
-	path = bundle/gundo
-	url = http://github.com/vim-scripts/Gundo.git
+	url = https://github.com/vim-scripts/ctk.vim.git
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
-	url = http://github.com/scrooloose/syntastic.git
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/gundo"]
+	path = bundle/gundo
+	url = https://github.com/sjl/gundo.vim.git
