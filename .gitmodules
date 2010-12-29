@@ -42,13 +42,10 @@
 	url = https://github.com/edsono/vim-bufexplorer.git
 [submodule "bundle/vcscommand"]
 	path = bundle/vcscommand
-	url = https://repo.or.cz/r/vcscommand.git
+	url = http://repo.or.cz/r/vcscommand.git
 [submodule "bundle/conque"]
 	path = bundle/conque
 	url = https://github.com/rson/vim-conque.git
-[submodule "bundle/ctk"]
-	path = bundle/ctk
-	url = https://github.com/vim-scripts/ctk.vim.git
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
