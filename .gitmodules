@@ -52,3 +52,6 @@
 [submodule "bundle/gundo"]
 	path = bundle/gundo
 	url = https://github.com/sjl/gundo.vim.git
+[submodule "bundle/ruby-refactoring"]
+	path = bundle/ruby-refactoring
+	url = https://github.com/ecomba/vim-ruby-refactoring.git
