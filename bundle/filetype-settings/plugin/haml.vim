@@ -1,6 +1,6 @@
 augroup Haml
         au!
-        au FileType haml set ai si ts=4 et sts=4 sw=4 sta number
+        au FileType haml set ai si ts=2 et sts=2 sw=2 sta number
         au FileType haml highlight BadWhitespace ctermbg=red guibg=red
         au FileType haml match BadWhitespace /^\t\+/
         au FileType haml match BadWhitespace /\s\+$/
