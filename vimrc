@@ -1,6 +1,5 @@
 " Do not remove the following 4 lines
 filetype off 
-call pathogen#helptags()
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
 "------------------------------------------
@@ -27,3 +26,15 @@ set equalalways
 set splitright splitbelow
 "" Change the leader from \ to ,
 let mapleader=","
+"" Change tmp file path
+set directory=~/.vim/swap,~/tmp,/var/tmp/,tmp
+"" Change tags path
+set tags=.tags,tags;/
+"" Some administrivia
+let g:SuperTabCrMapping = 0
+"" supress warnings
+set autoread
+"" allow backspacing over everything
+set backspace=indent,eol,start
+"" we like big histories!
+set history=1000
