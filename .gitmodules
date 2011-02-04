@@ -58,3 +58,6 @@
 [submodule "_colorschemes/mojombo_twilight"]
 	path = _colorschemes/mojombo_twilight
 	url = git://gist.github.com/796172.git
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = git://git.wincent.com/command-t.git
