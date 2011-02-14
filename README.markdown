@@ -13,7 +13,7 @@ First time usage
 If you have an existing .vim directory, you'll probably want to move it out of the way for now. Also backup your .vimrc
 Checkout the repo in your home directory like so:
 	git clone http://github.com/lusis/vim-configs.git .vim
-	ln -s .vim/vimrc .vim
+	ln -s .vim/vimrc .vimrc
 	cd .vim
 	git submodule init
 	git submodule update
