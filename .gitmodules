@@ -61,3 +61,6 @@
 [submodule "bundle/command-t"]
 	path = bundle/command-t
 	url = git://git.wincent.com/command-t.git
+[submodule "_colorschemes/solarized"]
+	path = _colorschemes/solarized
+	url = git://github.com/altercation/vim-colors-solarized.git

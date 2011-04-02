@@ -1,0 +1,1 @@
+../../../_colorschemes/solarized/colors/solarized.vim

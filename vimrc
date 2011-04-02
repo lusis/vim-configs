@@ -25,7 +25,7 @@ set equalalways
 "" New horizontal splits below current
 set splitright splitbelow
 "" Change the leader from \ to ,
-let mapleader=","
+"""let mapleader="\"
 "" Change tmp file path
 set directory=~/.vim/swap,~/tmp,/var/tmp/,tmp
 "" Change tags path
