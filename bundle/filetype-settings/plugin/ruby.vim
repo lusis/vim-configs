@@ -9,4 +9,5 @@ augroup Ruby
         else
                 au FileType ruby colorscheme vwilight
         endif
+	compiler ruby
 augroup END

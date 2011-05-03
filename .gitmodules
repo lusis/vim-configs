@@ -64,3 +64,9 @@
 [submodule "_colorschemes/solarized"]
 	path = _colorschemes/solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/vim-ruby"]
+	path = bundle/vim-ruby
+	url = https://github.com/vim-ruby/vim-ruby.git
+[submodule "_colorschemes/lusis_vwilight"]
+	path = _colorschemes/lusis_vwilight
+	url = git://gist.github.com/811437.git

@@ -7,7 +7,7 @@ call pathogen#helptags()
 " Okay, you can start changing stuff now
 " Basic stuff
 "" Things you might want to change
-colorscheme molokai " Default colorscheme
+colorscheme vwilight " Default colorscheme
 set background=dark
 
 "" You probably don't want to change these
@@ -24,7 +24,6 @@ set equalalways
 "" New vertical splits to the right of current
 "" New horizontal splits below current
 set splitright splitbelow
-"" Change the leader from \ to ,
 """let mapleader="\"
 "" Change tmp file path
 set directory=~/.vim/swap,~/tmp,/var/tmp/,tmp

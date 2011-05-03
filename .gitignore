@@ -3,3 +3,4 @@ tmp/
 .tags
 tags
 bundle/*/doc/
+view/
