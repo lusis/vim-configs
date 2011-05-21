@@ -7,7 +7,9 @@ call pathogen#helptags()
 " Okay, you can start changing stuff now
 " Basic stuff
 "" Things you might want to change
-colorscheme vwilight " Default colorscheme
+set nocompatible
+"colorscheme solarized " Default colorscheme
+colorscheme solarized
 set background=dark
 
 "" You probably don't want to change these
@@ -17,7 +19,6 @@ set t_Co=256
 set ic
 set hls
 set lbr
-set nocompatible
 " These affect viewports
 "" Split windows equally
 set equalalways
@@ -37,3 +38,5 @@ set autoread
 set backspace=indent,eol,start
 "" we like big histories!
 set history=1000
+"" For colorized in 256 mode
+let g:solarized_termcolors=256
