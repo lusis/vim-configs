@@ -67,9 +67,6 @@
 [submodule "bundle/vim-ruby"]
 	path = bundle/vim-ruby
 	url = https://github.com/vim-ruby/vim-ruby.git
-[submodule "_colorschemes/lusis_vwilight"]
-	path = _colorschemes/lusis_vwilight
-	url = git://gist.github.com/811437.git
 [submodule "_colorschemes/jellybeans"]
 	path = _colorschemes/jellybeans
 	url = https://github.com/vim-scripts/jellybeans.vim.git
