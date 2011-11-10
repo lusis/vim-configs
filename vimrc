@@ -8,8 +8,7 @@ call pathogen#helptags()
 " Basic stuff
 "" Things you might want to change
 set nocompatible
-"colorscheme solarized " Default colorscheme
-colorscheme solarized
+colorscheme jellybeans
 set background=dark
 
 "" You probably don't want to change these
