@@ -22,9 +22,6 @@
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
-[submodule "bundle/csapprox"]
-	path = bundle/csapprox
-	url = https://github.com/godlygeek/csapprox.git
 [submodule "bundle/vim-templates"]
 	path = bundle/vim-templates
 	url = https://github.com/hariton/simple-vim-templates.git
