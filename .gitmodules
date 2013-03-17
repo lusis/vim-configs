@@ -70,3 +70,21 @@
 [submodule "bundle/vim-chef"]
 	path = bundle/vim-chef
 	url = https://github.com/t9md/vim-chef
+[submodule "bundle/vim-golang"]
+	path = bundle/vim-golang
+	url = https://github.com/jnwhiteh/vim-golang.git
+[submodule "bundle/VimClojure"]
+	path = bundle/VimClojure
+	url = git://github.com/vim-scripts/VimClojure.git
+[submodule "bundle/vim-scala"]
+	path = bundle/vim-scala
+	url = https://github.com/derekwyatt/vim-scala.git
+[submodule "bundle/powershell"]
+	path = bundle/powershell
+	url = https://github.com/vim-scripts/Windows-PowerShell-Syntax-Plugin.git
+[submodule "bundle/golden-ratio"]
+	path = bundle/golden-ratio
+	url = git://github.com/roman/golden-ratio.git
+[submodule "bundle/pyflakes"]
+	path = bundle/pyflakes
+	url = git://github.com/kevinw/pyflakes-vim.git
